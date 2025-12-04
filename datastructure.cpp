@@ -154,9 +154,10 @@ int main()
 	task.display();
 	task.del(2);
 	task.display();
-	task.addTask(3, "about lotfy i miss him");
+	task.addTask(3, "Go Gym");
 	task.display();
 }
+
 
 
 
